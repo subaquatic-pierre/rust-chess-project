@@ -1,4 +1,4 @@
-# Chess Project
+# Rust Chess
 
 ## Overview
 
