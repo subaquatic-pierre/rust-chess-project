@@ -2,7 +2,7 @@
 
 ## Overview
 
-Chess Project is a comprehensive chess application written in Rust. It consists of two main components: "chess-frontend" and "chess-api." The frontend leverages Rust and WebAssembly (wasm) along with Gatsby.js to create a powerful, interactive user interface for playing chess.
+Rust Chess is a comprehensive chess application written in Rust. It consists of two main components: "chess-frontend" and "chess-api." The frontend leverages Rust and WebAssembly (wasm) along with Gatsby.js to create a powerful, interactive user interface for playing chess.
 
 ## Sub-Projects
 
